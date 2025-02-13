@@ -1,5 +1,4 @@
 public class HRectangle extends Shape{
-
     private double base;
     private double height;
 
@@ -22,7 +21,4 @@ public class HRectangle extends Shape{
     public void setHeight(double height) {
         this.height = height;
     }
-
-
-
 }

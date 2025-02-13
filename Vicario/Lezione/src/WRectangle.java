@@ -1,5 +1,4 @@
 public class WRectangle {
-    
     private double base;
     private double height;
     private Shape shape;
@@ -35,7 +34,4 @@ public class WRectangle {
     public int getId() {
         return shape.getId();
     }
-
-
-
 }

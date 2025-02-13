@@ -1,7 +1,6 @@
 package JavaInAction.Java04.ex02;
 
 public class Matrix {
-    
     private int[][] matrix;
 
 	public Matrix(int rows, int cols) {

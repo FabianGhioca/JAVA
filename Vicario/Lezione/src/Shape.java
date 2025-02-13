@@ -1,5 +1,4 @@
 public class Shape {    
-    
     private int id;
     double area;
     
@@ -18,6 +17,4 @@ public class Shape {
     public double getArea() {
         return this.area;
     }
-
-
 }

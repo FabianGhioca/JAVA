@@ -1,6 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        
         Shape shape = new Shape();
         shape.setId(100);
 
@@ -24,7 +23,5 @@ public class App {
         hR.setId(100);
         System.out.println("Area del rettangolo hR è: " + hR.getArea());
         System.out.println("L\'id di hR è: " + hR.getId());
-
-
     }
 }
